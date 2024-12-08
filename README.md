@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadAli330
+- 👋 Hi, I’m Muhammad Ali
 - 🏢 Software Engineer (Full Stack)
 - 🧰 I build with: Python Django, JavaScript ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
